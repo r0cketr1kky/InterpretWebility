@@ -22,12 +22,6 @@ The project is inspired form the research paper done by our team member, which a
 https://arxiv.org/pdf/2006.14255.pdf
 https://arxiv.org/pdf/2010.03023.pdf
 
-# Main Features
-- Available in multiple languages
-- Smart AI Disease Detection
-- Easy to use BMI Calculator
-- Smart Chatbot
-
 # Methodology
 - For backend we have used Flask.
 - For frontend we have used HTML and jQuerry.
